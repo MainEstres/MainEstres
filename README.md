@@ -8,11 +8,10 @@ Actualmente me estoy dedicando a aprender y mejorar mis habilidades como desarro
 ## Tech Stack 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,vue)](https://skillicons.dev)
 
+## Contactame
+ Linkedin (https://www.linkedin.com/in/nicol%C3%A1s-lepe-silva-0b33051ba/)
+ 
 
 
 
 
-
-
-
-![](https://komarev.com/ghpvc/?MainEstres&label=Profile+Views&color=green)

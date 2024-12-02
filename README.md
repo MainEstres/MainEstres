@@ -15,4 +15,4 @@ Actualmente me estoy dedicando a aprender y mejorar mis habilidades como desarro
 
 
 
-![Visitas](https://komarev.com/ghpvc/?MainEstres&label=Profile+Views&color=green)
+![](https://komarev.com/ghpvc/?MainEstres&label=Profile+Views&color=green)

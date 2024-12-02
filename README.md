@@ -9,7 +9,7 @@ Actualmente me estoy dedicando a aprender y mejorar mis habilidades como desarro
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,vue)](https://skillicons.dev)
 
 ## Contactame
- Linkedin (https://www.linkedin.com/in/nicol%C3%A1s-lepe-silva-0b33051ba/)
+¡Estaré encantado de conectar contigo! Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-lepe-silva-0b33051ba/) para cualquier consulta o colaboración.
  
 
 

@@ -1,16 +1,13 @@
-## Hi there 👋
+## Bienvenidos a mi GitHub
+##Soy Nicolás Lepe, Desarrolador Front End en proceso
+Soy de un lugar remoto de Chile, me considero una persona que le gusta aprender constantemente
 
-<!--
-**MainEstres/MainEstres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## En que me estoy dedicando
+Actualmente me estoy dedicando a aprender y mejorar mis habilidades como desarrollador Front End Vue, Me siento capacitado para aprender tecnologias que sean nesesaria para mejorar mis conocimientos sobre desarrollo.
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
